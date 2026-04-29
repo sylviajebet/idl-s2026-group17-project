@@ -1,0 +1,16 @@
+asvspoof_pt/
+checkpoints/
+codecfake_pt/
+datasets/
+debug/
+envs/
+for_original_fake_pt/
+logs/
+pt_files/
+to_delete/
+plots/
+reports/
+slurm_scripts/
+launch_all.sh
+csv/
+**/__pycache__/**
