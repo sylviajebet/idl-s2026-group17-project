@@ -1,0 +1,18 @@
+# Machine Learning & Audio
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.4.0+cu124
+torchaudio==2.4.0+cu124
+torchvision==0.19.0+cu124
+
+# Data & Science
+numpy
+pandas
+scikit-learn
+
+# Visualization & Progress
+matplotlib
+tqdm
+
+# MLOps & Platform Tools
+wandb
+kaggle
